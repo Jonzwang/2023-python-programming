@@ -1,2 +1,2 @@
 # 2023-python-programming
-## This is Jonathan's first github repo!
+## This is Jonathan's first GitHub repo!
